@@ -69,7 +69,7 @@ const Index = () => {
                 
                 <div className="flex-1 text-center md:text-left">
                   <h1 className="text-4xl md:text-5xl font-montserrat font-bold text-foreground mb-2 bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
-                    Имя Фамилия
+                    ДЖЕЙК
                   </h1>
                   <p className="text-xl text-muted-foreground font-medium mb-4">
                     Творческий профессионал • Инноватор • Лидер
